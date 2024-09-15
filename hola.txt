@@ -1,0 +1,4 @@
+  81        0.030 git checkout --orphan miaDeCero
+  82        0.019 git rm --cached -r
+  83        0.024 git reset --hard
+  84        0.028 git commit -m "Probando checkout --orph rama vacia y hard reset"
