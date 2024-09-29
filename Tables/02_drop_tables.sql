@@ -1,0 +1,1 @@
+DROP TABLES persons8;
