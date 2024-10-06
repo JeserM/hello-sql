@@ -1,4 +1,4 @@
--- Alter, para alterao modificar la tabla
+-- Alter, para alterarS o modificar la tabla
 -- Operacion de creacion
 ALTER TABLE persons8
 ADD surname varchar(150);
